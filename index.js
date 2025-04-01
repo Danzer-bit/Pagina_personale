@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		);
 
 		// Crea l'URL mailto
-		const mailtoUrl = `mailto:mario.rossi@email.com?subject=${emailSubject}&body=${emailBody}`;
+		const mailtoUrl = `mailto:alex93.m@gmail.com?subject=${emailSubject}&body=${emailBody}`;
 
 		// Apri il client di posta
 		window.location.href = mailtoUrl;
